@@ -7,5 +7,7 @@
 Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau.
 
 ###### Мои контакты: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/AVGorbulya)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](a.gorbulya@gmail.com)  
+<br>
+<span align="center">
+
+[E-mail](mailto:avgorjob@gmail.com) ◄ ► [Telegram](https://t.me/AVGorbulya)
