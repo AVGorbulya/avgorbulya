@@ -9,5 +9,5 @@ Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQ
 ###### Мои контакты: 
 <br>
 <span align="center">
-
-[E-mail](mailto:avgorjob@gmail.com) ◄ ► [Telegram](https://t.me/AVGorbulya)
+[E-mail](mailto:avgorjob@gmail.com) 
+[Telegram](https://t.me/AVGorbulya)
