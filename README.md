@@ -1,20 +1,21 @@
-### Привет! 👋, Меня зовут Андрей.
-#### Выпускник курса "Data Analyst Bootcamp" в Yandex Practicum.
+<h1 align="center">Hi 👋, I'm Andrey Gorbulya</h1>
+<h3 align="center">A data-analyst from Russia.</h3>
 
-Порядка 10 самых разных проектов выполнены в рамках подготовки на курсе Data Analyst Bootcamp. 
-В рамках подготовки проектов был получена практика: по разведочному анализу и предобработке данных, статистическому анализу, проверке статистических гипотез, анализу результатов А/В-тестирования, расчету и анализу маркетинговых и продуктовых метрик, подготовке SQL-запросов различной сложности, визуализации данных с помощью библиотек Python, подготовке дэшбородов в Tableau. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avgorbulya&label=Profile%20views&color=0e75b6&style=flat" alt="avgorbulya" /> </p>
 
-Мои фриланс-проекты по анализу данных можно посмотреть в [репозитории](https://github.com/AVGorbulya/My_freelance_projects)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avgorbulya" alt="avgorbulya" /></a> </p>
 
-- 🔭 Я в поиске работы.
-Ищу любые проекты связанные с обработкой и анализом, визуализацией данных с помощью Python, SQL, Tableau. 
+- 📫 How to reach me **avgorjob@gmail.com**
 
-###### Стек/инструменты: 
-Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/user7274my" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7274my" height="30" width="40" /></a>
+</p>
 
-###### Мои контакты: 
-<br>
-<span align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-► [E-mail](mailto:avgorjob@gmail.com)  
-► [Telegram](https://t.me/AVGorbulya)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgorbulya&show_icons=true&locale=en&layout=compact" alt="avgorbulya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avgorbulya&show_icons=true&locale=en" alt="avgorbulya" /></p>
+
