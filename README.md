@@ -12,6 +12,8 @@
 ###### Стек/инструменты: 
 Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit.
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi)
+
 ###### Мои контакты: 
 <br>
 <span align="left">
