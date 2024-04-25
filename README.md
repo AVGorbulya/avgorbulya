@@ -15,8 +15,6 @@ Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQ
 <img src="https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi" alt="LeetCode Stats" width="300" height="200">
 
 ###### Мои контакты: 
-<br>
 <span align="left">
-  
 ► [E-mail](mailto:avgorjob@gmail.com)  
 ► [Telegram](https://t.me/AVGorbulya)
