@@ -12,9 +12,11 @@
 Стек/инструменты: 
 Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit.
 
-LeetCode Stats: <p align="left">
-    <img src="https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi" alt="LeetCode Stats" style="width:300px;height:200px;">
-</p>
+LeetCode Stats: <div style="margin: -20px;">
+    <div align="center">
+        <img src="https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi" alt="LeetCode Stats" style="width:300px;height:200px;">
+    </div>
+</div>
 
 Мои контакты: 
 <span align="left">
