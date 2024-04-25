@@ -13,7 +13,10 @@
 Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit.
 
 ###### LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi" alt="LeetCode Stats" style="display:block; margin-left:auto; margin-right:auto; width:300px; height:200px;">
+<div style="text-align:left;">
+    <img src="https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi" alt="LeetCode Stats" style="width:300px; height:200px;">
+</div>
+
 
 ###### Мои контакты: 
 <span align="left">
