@@ -9,9 +9,9 @@
 - 🔭 Я в поиске работы.
 Ищу любые проекты связанные с обработкой и анализом, визуализацией данных. 
 
-###### Стек/инструменты: 
+Стек/инструменты: 
 Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit.
-###### LeetCode Stats
+LeetCode Stats:
 <div style="text-align:left;">
     <img src="https://leetcard.jacoblin.cool/AVGorbulya?theme=forest&font=Noto%20Sans%20Psalter%20Pahlavi" alt="LeetCode Stats" style="width:300px; height:200px;">
 </div>
