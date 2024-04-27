@@ -13,7 +13,9 @@
 Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit.
 
 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Avgorbulya?theme=forest&font=Macondo)
+<div align="left">
+    <img src="https://leetcard.jacoblin.cool/Avgorbulya?theme=forest&font=Macondo" alt="LeetCode Stats" style="display:block;margin:0 auto; width:250px; height:150px;">
+</div>
 
 Мои контакты: 
 <span align="left">
