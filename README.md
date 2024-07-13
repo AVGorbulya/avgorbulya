@@ -1,23 +1,22 @@
-### Привет! 👋, Меня зовут Андрей.
-#### Выпускник курса "Data Analyst Bootcamp" в Yandex Practicum.
+### Hi! 👋, My name is Andrei Gorbulia.
+#### I'm in big data analytics
 
-Порядка 10 самых разных проектов выполнены в рамках подготовки на курсе Data Analyst Bootcamp. 
-В рамках подготовки проектов был получена практика: по разведочному анализу и предобработке данных, статистическому анализу, проверке статистических гипотез, анализу результатов А/В-тестирования, расчету и анализу маркетинговых и продуктовых метрик, подготовке SQL-запросов различной сложности, визуализации данных с помощью библиотек Python, подготовке дэшбородов в Tableau. 
+I'm junior product analyst in VK.
+I am engaged in analyzing advertising campaigns of mobile applications and supporting the bot, collecting, aggregating and generating daily operational reporting of VK advertising business.
 
-Мои фриланс-проекты по анализу данных можно посмотреть в [репозитории](https://github.com/AVGorbulya/My_freelance_projects)
+My freelance data analysis projects can be viewed at [repository](https://github.com/AVGorbulya/My_freelance_projects)
 
-- 🔭 Я в поиске работы.
-Ищу любые проекты связанные с обработкой и анализом, визуализацией данных. 
+- 🔭 Looking for any freelance-projects related to data processing and analysis, visualization.
 
-Стек/инструменты: 
-Python, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit.
+Stack/tools:  
+Python, Clickhouse, Supersetб PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit, Jira.
 
 LeetCode Stats:
 <div align="left">
     <img src="https://leetcard.jacoblin.cool/Avgorbulya?theme=forest&font=Macondo" alt="LeetCode Stats" style="display:block;margin:0 auto; width:250px; height:150px;">
 </div>
 
-Мои контакты: 
+My contacts:
 <span align="left">
 
 ► [E-mail](mailto:avgorjob@gmail.com)  
