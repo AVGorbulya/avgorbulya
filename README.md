@@ -9,7 +9,7 @@ My freelance data analysis projects can be viewed at [repository](https://github
 - 🔭 Looking for any freelance-projects related to data processing and analysis, visualization.
 
 Stack/tools:  
-Python, Clickhouse, Supersetб PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit, Jira.
+Python, Clickhouse, Superset, PostgreSQL, DBeaver, Pandas Matplotlib, NumPy SciPy, Plotly, Seaborn, SQLAlchemy, Tableau, Streamlit, Jira.
 
 LeetCode Stats:
 <div align="left">
