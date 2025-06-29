@@ -4,7 +4,7 @@
 I was a junior product analyst at VK from 07.2024 to 10.2024. 
 I was involved in analyzing mobile app advertising campaigns and supporting the bot, collecting, aggregating and generating daily operational reporting for VK's advertising business.
 
-My freelance data analysis projects can be viewed at [repository](https://github.com/AVGorbulya/My_freelance_projects)
+My freelance data analysis projects can be viewed at [repository](https://github.com/AVGorbulya/My_freelance_projects) or at [Plastic_CV project](https://github.com/AVGorbulya/Plastic_CV)
 
 - 🔭 Looking for any freelance-projects related to data processing and analysis, visualization.
 
